@@ -1,4 +1,5 @@
 # LeetCode Extension
+This is forked from https://github.com/binarylu/leetcode-ext.git, source code can be downloaded at http://binarylu.github.io/leetcode-ext/
 
 ## Description
 
